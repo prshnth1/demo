@@ -1,3 +1,10 @@
+Indentation of bullets
+
+- Item 1
+- Item 2
+  - Sub Item 1
+  - Sub Item 2
+
 # A collapsible section containing markdown
 <details>
   <summary>Click to expand!</summary>
